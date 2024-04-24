@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+        {
+            "name": "novacash1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "novacash1 (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "novacash1 (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter (Pixel 7 Pro API UpsideDownCakePrivacySandbox)",
+            "program": "lib/main.dart",
+            "deviceId": "emulator-5554",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}

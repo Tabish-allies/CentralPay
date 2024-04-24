@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "43266602216",
+    "project_id": "novacash-6115c",
+    "storage_bucket": "novacash-6115c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43266602216:android:07c993c7087c453551855d",
+        "android_client_info": {
+          "package_name": "com.example.novacash1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVRx0BUdRJGyMyo76rVNBaXdtVD4vu9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43266602216:android:da7020cdb87716bf51855d",
+        "android_client_info": {
+          "package_name": "com.tabish.centralpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhVRx0BUdRJGyMyo76rVNBaXdtVD4vu9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+  
+}
